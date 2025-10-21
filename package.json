@@ -1,6 +1,6 @@
 {
-  "name": "n8n-nodes-aws-athena-query",
-  "version": "0.1.6",
+  "name": "n8n-nodes-aws-athena-query-with-workgroup",
+  "version": "0.2.1",
   "description": "n8n community node for executing SQL queries on AWS Athena",
   "keywords": [
     "n8n-community-node-package",
@@ -12,20 +12,20 @@
     "analytics"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/michaelqz/n8n-nodes-aws-athena-query",
+  "homepage": "https://github.com/CFO-Clement/n8n-nodes-aws-athena-query",
   "bugs": {
-    "url": "https://github.com/michaelqz/n8n-nodes-aws-athena-query/issues"
+    "url": "https://github.com/CFO-Clement/n8n-nodes-aws-athena-query/issues"
   },
   "publishConfig": {
     "access": "public"
   },
   "author": {
-    "name": "Mike Zhou",
-    "email": "michael@indebted.co"
+    "name": "Clément FERRERO (astro-cfo)",
+    "email": "clement.ferrero@yahoo.fr"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/michaelqz/n8n-nodes-aws-athena-query.git"
+    "url": "https://github.com/CFO-Clement/n8n-nodes-aws-athena-query.git"
   },
   "engines": {
     "node": ">=20.15"

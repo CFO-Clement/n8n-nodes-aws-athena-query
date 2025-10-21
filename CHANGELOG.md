@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.1] - 2025-10-22
+### Fixed
+- Typo in the readme file and package description
+
+## [0.2.0] - 2025-10-21
+### Added
+- **WorkGroup support**: New optional parameter to specify AWS Athena workgroup
+- Forked from [michaelqz/n8n-nodes-aws-athena-query](https://github.com/michaelqz/n8n-nodes-aws-athena-query)
+
 ## [0.1.6] - 2025-08-08
 ### Added
 - Pagination for Athena `GetQueryResults` using `NextToken` to remove the 999-row cap
